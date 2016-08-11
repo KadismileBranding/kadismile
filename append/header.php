@@ -57,13 +57,7 @@
                                         <li class="menu-item menu-item-has-children">
                                             <a href="about.php">About Us</a>
                                         </li>
-<<<<<<< HEAD
-
-=======
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="services.php">Services</a>
                                         </li>
->>>>>>> 933d0713f83b906f0d8e98919211c2a102fc9cf5
                                         <li class="menu-item menu-item-has-children">
                                             <a href="blog.php">Blog</a>
 
@@ -75,12 +69,11 @@
                                                     <a href="contact.php">Contact Us</a>
                                                 </li>
                                                 <li class="menu-item">
-<<<<<<< HEAD
+                                                    <a href="services.php">Services</a>
+                                                <li class="menu-item">
                                                     <a href="services.php">Services</a>
                                                 </li>
                                                 <li class="menu-item">
-=======
->>>>>>> 933d0713f83b906f0d8e98919211c2a102fc9cf5
                                                     <a href="portfolio.php">Portfolio</a>
                                                 </li>
                                                 <li class="menu-item">
