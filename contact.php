@@ -1,7 +1,9 @@
 <?php
 include "append/header.php";
 ?>
-    <div class="top_panel_title top_panel_style_6  title_present breadcrumbs_present scheme_original" style="margin-top: 7.6%">
+<div class="page body_filled article_style_stretch top_panel_style_header_6 top_panel_above sidebar_hide" style="margin-top: 7.6%">
+    
+    <div class="top_panel_title top_panel_style_6  title_present breadcrumbs_present scheme_original" >
         <div class="top_panel_title_inner top_panel_inner_style_6  title_present_inner breadcrumbs_present_inner">
             <div class="content_wrap">
                 <h1 class="page_title">Contact Us</h1>
