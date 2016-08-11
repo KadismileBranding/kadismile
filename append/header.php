@@ -70,8 +70,6 @@
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="services.php">Services</a>
-                                                <li class="menu-item">
-                                                    <a href="services.php">Services</a>
                                                 </li>
                                                 <li class="menu-item">
                                                     <a href="portfolio.php">Portfolio</a>
