@@ -1,14 +1,14 @@
 <?php
 include "append/header.php";
 ?>
-<body class="sidebar_show sidebar_right">
+<div class="archive category body_filled article_style_stretch top_panel_style_header_6 template_masonry top_panel_above sidebar_show sidebar_right" style="margin-top: 7.6%">
 
-    <div class="top_panel_title top_panel_style_6  title_present breadcrumbs_present scheme_original sidebar_show sidebar_right" style="margin-top: 7.6%">
+    <div class="top_panel_title top_panel_style_6  title_present breadcrumbs_present scheme_original sidebar_show sidebar_right" >
         <div class="top_panel_title_inner top_panel_inner_style_6  title_present_inner breadcrumbs_present_inner">
             <div class="content_wrap">
                 <h1 class="page_title">Portfolio 2 columns</h1>
                 <div class="breadcrumbs">
-                    <a class="breadcrumbs_item home" href="index-2.html">Home</a><span class="breadcrumbs_delimiter"></span><a class="breadcrumbs_item all" href="#">All posts</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Portfolio 2 columns</span>
+                    <a class="breadcrumbs_item home" href="index.php">Home</a><span class="breadcrumbs_delimiter"></span><a class="breadcrumbs_item all" href="#">All posts</a><span class="breadcrumbs_delimiter"></span><span class="breadcrumbs_item current">Portfolio</span>
                 </div>
             </div>
         </div>
@@ -31,7 +31,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Sale Systems &#038; Software" src="images/typing-vintage-technology-keyboard-21-870x782.jpg">
+                                    <img alt="Sale Systems &#038; Software" src="assets/images/typing-vintage-technology-keyboard-21-870x782.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -62,7 +62,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard even">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="The Best Email Marketing Tools" src="images/Branding-Identity-MockUp-Vol91-870x671.jpg">
+                                    <img alt="The Best Email Marketing Tools" src="assets/images/Branding-Identity-MockUp-Vol91-870x671.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -93,7 +93,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="The Best Call Center Services" src="images/A4-Paper1-870x651.jpg">
+                                    <img alt="The Best Call Center Services" src="assets/images/A4-Paper1-870x651.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -124,7 +124,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard even">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Hiring a Remote Employee" src="images/Canvas-Tote-Bag1-870x1157.jpg">
+                                    <img alt="Hiring a Remote Employee" src="assets/images/Canvas-Tote-Bag1-870x1157.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -155,7 +155,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Perfect SEO Practices" src="images/Branding-Identity2-870x580.jpg">
+                                    <img alt="Perfect SEO Practices" src="assets/images/Branding-Identity2-870x580.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -186,7 +186,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard even">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Traits of Successful Salespeople" src="images/Cutout-Wood-Embossed-B-Card-MockUp1-870x578.jpg">
+                                    <img alt="Traits of Successful Salespeople" src="assets/images/Cutout-Wood-Embossed-B-Card-MockUp1-870x578.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -217,7 +217,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="New Business Ideas for 2016" src="images/0201-870x580.jpg">
+                                    <img alt="New Business Ideas for 2016" src="assets/images/0201-870x580.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -248,7 +248,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard even">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Boosting Your Sales" src="images/Branding-Identity11-870x776.jpg">
+                                    <img alt="Boosting Your Sales" src="assets/images/Branding-Identity11-870x776.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -279,7 +279,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="10 Killer Business Ideas" src="images/Mocks-Up-Frame-Hbd1-870x870.jpg">
+                                    <img alt="10 Killer Business Ideas" src="assets/images/Mocks-Up-Frame-Hbd1-870x870.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -310,7 +310,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard even">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="The Best Online Payroll Services" src="images/serpentine-folder1-870x580.jpg">
+                                    <img alt="The Best Online Payroll Services" src="assets/images/serpentine-folder1-870x580.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -341,7 +341,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Best CRM Software 2015" src="images/Business-Card1-870x580.jpg">
+                                    <img alt="Best CRM Software 2015" src="assets/images/Business-Card1-870x580.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -372,7 +372,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard even">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Fusce et augue placerat" src="images/sign-pencil-black-pencils1-870x580.jpg">
+                                    <img alt="Fusce et augue placerat" src="assets/images/sign-pencil-black-pencils1-870x580.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -403,7 +403,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Lorem ipsum dolor sit amet" src="images/01_Eco_Bag1-870x580.jpg">
+                                    <img alt="Lorem ipsum dolor sit amet" src="assets/images/01_Eco_Bag1-870x580.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -434,7 +434,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard even">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Pellentesque habitant morbi tristique senectus" src="images/Natural-Paper-Printed-Logo-MockUp1-870x567.jpg">
+                                    <img alt="Pellentesque habitant morbi tristique senectus" src="assets/images/Natural-Paper-Printed-Logo-MockUp1-870x567.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -465,7 +465,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Fusce mauris leo, dapibus quis est in" src="images/Depositphotos_62795597_original1-870x578.jpg">
+                                    <img alt="Fusce mauris leo, dapibus quis est in" src="assets/images/Depositphotos_62795597_original1-870x578.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -496,7 +496,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard even">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Phasellus cursus nunc arcu" src="images/woman-morning-bathrobe-bathroom1-870x580.jpg">
+                                    <img alt="Phasellus cursus nunc arcu" src="assets/images/woman-morning-bathrobe-bathroom1-870x580.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -527,7 +527,7 @@ include "append/header.php";
                         <article class="post_item post_item_portfolio post_item_portfolio_2 post_format_standard odd last">
                             <div class="post_content isotope_item_content ih-item colored square effect10 left_to_right">
                                 <div class="post_featured img">
-                                    <img alt="Etiam vitae leo et diam pellentesque porta" src="images/Depositphotos_59043801_original1-870x580.jpg">
+                                    <img alt="Etiam vitae leo et diam pellentesque porta" src="assets/images/Depositphotos_59043801_original1-870x580.jpg">
                                 </div>
                                 <div class="post_info_wrap info">
                                     <div class="info-back">
@@ -633,7 +633,7 @@ include "append/header.php";
                     <aside class="widget widget_rss">
                         <h5 class="widget_title">
                             <a class="rsswidget" href="#">
-                                <img class="rss-widget-icon" width="14" height="14" src="images/rss.png" alt="RSS" />
+                                <img class="rss-widget-icon" width="14" height="14" src="assets/images/rss.png" alt="RSS" />
                             </a>
                             <a class="rsswidget" href="#">RSS FEED</a>
                         </h5>
@@ -698,42 +698,42 @@ include "append/header.php";
                         <article class="post_item with_thumb first">
                             <div class="post_thumb">
                                 <a href="#" title="Sale Systems &amp; Software">
-                                    <img alt="Sale Systems &#038; Software" src="images/typing-vintage-technology-keyboard-21-95x95.jpg">
+                                    <img alt="Sale Systems &#038; Software" src="assets/images/typing-vintage-technology-keyboard-21-95x95.jpg">
                                 </a>
                             </div>
                         </article>
                         <article class="post_item with_thumb">
                             <div class="post_thumb">
                                 <a href="#" title="The Best Email Marketing Tools">
-                                    <img alt="The Best Email Marketing Tools" src="images/Branding-Identity-MockUp-Vol91-95x95.jpg">
+                                    <img alt="The Best Email Marketing Tools" src="assets/images/Branding-Identity-MockUp-Vol91-95x95.jpg">
                                 </a>
                             </div>
                         </article>
                         <article class="post_item with_thumb">
                             <div class="post_thumb">
                                 <a href="#" title="The Best Call Center Services">
-                                    <img alt="The Best Call Center Services" src="images/A4-Paper1-95x95.jpg">
+                                    <img alt="The Best Call Center Services" src="assets/images/A4-Paper1-95x95.jpg">
                                 </a>
                             </div>
                         </article>
                         <article class="post_item with_thumb">
                             <div class="post_thumb">
                                 <a href="#" title="Hiring a Remote Employee">
-                                    <img alt="Hiring a Remote Employee" src="images/Canvas-Tote-Bag1-95x95.jpg">
+                                    <img alt="Hiring a Remote Employee" src="assets/images/Canvas-Tote-Bag1-95x95.jpg">
                                 </a>
                             </div>
                         </article>
                         <article class="post_item with_thumb">
                             <div class="post_thumb">
                                 <a href="#" title="Perfect SEO Practices">
-                                    <img alt="Perfect SEO Practices" src="images/Branding-Identity2-95x95.jpg">
+                                    <img alt="Perfect SEO Practices" src="assets/images/Branding-Identity2-95x95.jpg">
                                 </a>
                             </div>
                         </article>
                         <article class="post_item with_thumb">
                             <div class="post_thumb">
                                 <a href="#" title="Traits of Successful Salespeople">
-                                    <img alt="Traits of Successful Salespeople" src="images/Cutout-Wood-Embossed-B-Card-MockUp1-95x95.jpg">
+                                    <img alt="Traits of Successful Salespeople" src="assets/images/Cutout-Wood-Embossed-B-Card-MockUp1-95x95.jpg">
                                 </a>
                             </div>
                         </article>
